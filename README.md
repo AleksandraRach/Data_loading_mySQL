@@ -48,7 +48,7 @@ aleks_racheeva_db
 
 Please include the following in an email response to this exercise:
 
-Screenshot of the Integromat "Scenario" 
+Screenshot of the Integromat [Scenario] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/bytecodeTest.jpg)
 
 MySQL SHOW CREATE TABLE for the table that was created
 
