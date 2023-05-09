@@ -48,10 +48,15 @@ aleks_racheeva_db
 
 Please include the following in an email response to this exercise:
 
-Screenshot of the Integromat [Scenario] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/bytecodeTest.jpg)
+1. Screenshot of the Integromat [Scenario] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/bytecodeTest.jpg)
 
-MySQL SHOW CREATE TABLE for the table that was created
+2. MySQL SHOW CREATE TABLE for the table that was created
+[creation of table] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/creating_table.sql)
+[show table] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/show_table.sql)
 
-Validation that the number of rows of data in MySQL matches the number of records in the CSV
-
-A SQL query and result that finds the most popular name in the table
+3. Validation that the number of rows of data in MySQL matches the number of records in the CSV
+[rows validation query] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/rows_amount_validation.sql)
+[result] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/rows_amount.csv)
+4. SQL query and result that finds the most popular name in the table
+[to check most popular name query] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/popular_name.sql)
+[result] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/most_popular_name.csv)
