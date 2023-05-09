@@ -1,4 +1,4 @@
-# Data_loading_mySQL-
+# Data_loading_mySQL
 ## Summary
 It’s quite common for customers to have valuable data in CSV files that need to be loaded into a data warehouse for analysis in a Business Intelligence tool. The goal of this project is to implement a process to enable the loading of a CSV file into MySQL table for future analysis. This project is estimated to take between 1 - 3 hours. 
 
