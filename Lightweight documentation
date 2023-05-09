@@ -1,4 +1,5 @@
 Screenshot of the Integromat "Scenario" 
+[Screenshot of the Integromat "Scenario" ](Data_loading_mySQL/bytecodeTest.jpg)
 
 
 MySQL SHOW CREATE TABLE for the table that was created
@@ -6,3 +7,4 @@ MySQL SHOW CREATE TABLE for the table that was created
 Validation that the number of rows of data in MySQL matches the number of records in the CSV
 
 A SQL query and result that finds the most popular name in the table
+
