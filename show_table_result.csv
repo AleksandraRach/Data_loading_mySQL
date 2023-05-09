@@ -1,0 +1,8 @@
+Table,"Create Table"
+popular_names_usa,"CREATE TABLE `popular_names_usa` (
+  `year` int NOT NULL,
+  `name` varchar(20) NOT NULL,
+  `gender` char(1) NOT NULL,
+  `nameState` char(2) NOT NULL,
+  PRIMARY KEY (`year`,`name`,`gender`,`nameState`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci"
