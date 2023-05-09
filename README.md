@@ -58,6 +58,8 @@ Please include the following in an email response to this exercise:
 
 [show table] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/show_table.sql)
 
+[show table result] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/show_table_result.csv)
+
 3. Validation that the number of rows of data in MySQL matches the number of records in the CSV
 
 [rows validation query] (https://github.com/AleksandraRach/Data_loading_mySQL/blob/main/rows_amount_validation.sql)
