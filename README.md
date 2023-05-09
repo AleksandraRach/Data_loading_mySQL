@@ -24,25 +24,6 @@ The sequence should be HTTP -> CSV -> MySQL
 You will need to create table in MySQL before loading the data
 
 
-MySQL
-
-Host:
-
-data-load-exercise.cczmdlavn2pa.us-west-2.rds.amazonaws.com 
-
-User: 
-aleks_racheeva
-
-Password: 
-NSflwehf233
-
-Database: 
-aleks_racheeva_db
-
-
-
-
-
 
 ## Lightweight documentation 
 
